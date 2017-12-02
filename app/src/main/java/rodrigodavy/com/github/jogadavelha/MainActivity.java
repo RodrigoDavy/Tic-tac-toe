@@ -102,13 +102,13 @@ public class MainActivity extends AppCompatActivity {
 
         if(velha.getVencedor() == 'X') {
             tb.setText(getString(R.string.winner).toUpperCase());
-            tb.setTextColor(Color.GREEN);
+            tb.setTextColor(Color.BLUE);
             tv.setText("X");
             mostraVitoria(velha.getPos_vencedora(),velha.getVencedor());
         }
         else if(velha.getVencedor() == 'O') {
             tb.setText(getString(R.string.winner).toUpperCase());
-            tb.setTextColor(Color.GREEN);
+            tb.setTextColor(Color.BLUE);
             tv.setText("O");
             mostraVitoria(velha.getPos_vencedora(),velha.getVencedor());
         }
