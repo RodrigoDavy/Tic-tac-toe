@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jogo da Velha</string>
+    <string name="player">Jogador</string>
+    <string name="restart">Recomeçar</string>
+    <string name="winner">Vencendor</string>
+    <string name="tie">Deu velha...</string>
+</resources>

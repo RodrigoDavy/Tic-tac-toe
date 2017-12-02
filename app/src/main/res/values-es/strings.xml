@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tres en Línea</string>
+    <string name="player">Jugador</string>
+    <string name="restart">Reiniciar</string>
+    <string name="winner">Ganador</string>
+    <string name="tie">Empate...</string>
+</resources>
